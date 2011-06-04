@@ -1,0 +1,11 @@
+## Interface: 40100
+
+## Title: Announcer
+## Notes: Announce quest progress to party members who also use Announcer.
+## Author: Guster
+## Version: 1.0.0.0
+## X-Website: https://github.com/guster/announcer
+## X-Email: gustertheshaman@gmail.com
+## X-Category: Quest
+
+Announcer.lua
